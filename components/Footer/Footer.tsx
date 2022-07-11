@@ -26,9 +26,6 @@ export default function Footer() {
           <Link href='/'>
             <a className='text-gray-500 hover:text-gray-600 transition'>Home</a>
           </Link>
-          <Link href='https://zuse.market/collection/0.0.688496'>
-            <a className='text-gray-500 hover:text-gray-600 transition'>Zuse.Market</a>
-          </Link>
         </div>
         <div className='flex flex-col space-y-4'>
           <ExternalLink href='https://twitter.com/syndicatespanda'>
