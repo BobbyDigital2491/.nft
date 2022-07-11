@@ -22,7 +22,7 @@ export default function Home() {
         <br />
         <br />
         <Image
-          
+          objectFit='cover'
           src='/cel.jpg'
           alt='logo'
           border='4px'
@@ -35,7 +35,7 @@ export default function Home() {
         <br />
         <br />
         <Image
-         
+          objectFit='cover'
           src='/lazy.jpg'
           alt='logo'
           border='4px'
