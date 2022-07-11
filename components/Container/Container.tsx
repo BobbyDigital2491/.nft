@@ -19,8 +19,8 @@ export default function Container(props: any) {
   const meta = {
     title: 'Pandamania',
     description: 'Pandamania',
-    image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/200087687_10165279094295383_4992579542482853141_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8631f5&_nc_ohc=TrXYvdI7JhEAX9MjF66&_nc_ht=scontent-lga3-1.xx&oh=00_AT_t7Am6gSSW5o9ktoPEaWOXu1XgWhxKsJFndYtqd7coJA&oe=62E4B5A2',
-
+    image:
+      'https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/200087687_10165279094295383_4992579542482853141_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8631f5&_nc_ohc=TrXYvdI7JhEAX9MjF66&_nc_ht=scontent-lga3-1.xx&oh=00_AT_t7Am6gSSW5o9ktoPEaWOXu1XgWhxKsJFndYtqd7coJA&oe=62E4B5A2',
     type: 'website',
     ...customMeta,
   }
