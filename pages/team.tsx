@@ -95,7 +95,7 @@ export default function Home() {
             fontWeight='bold'
             textAlign='center'
           >
-            BobbyDigital24
+            BobbyDigital
           </Box>
         </SimpleGrid>
       </div>
