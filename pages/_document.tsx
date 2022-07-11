@@ -29,13 +29,13 @@ class MyDocument extends Document {
             href='/public/cover.jpg'
             rel='icon'
             sizes='32x32'
-            type='image/png'
+            type='image/jpg'
           />
           <link
             href='/public/cover.jpg'
             rel='icon'
             sizes='16x16'
-            type='image/png'
+            type='image/jpg'
           />
           <link color='#4a9885' href='//public/cover.jpg' rel='mask-icon' />
           <meta content='/public/cover.jpg' name='msapplication-config' />
