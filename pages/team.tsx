@@ -51,7 +51,7 @@ export default function Home() {
         <SimpleGrid columns={2} spacing={10} border='4px' borderRadius='2xl'>
           <Box
             height='80px'
-            fontSize='4xl'
+            fontSize='2xl'
             fontWeight='bold'
             textAlign='center'
           >
@@ -59,7 +59,7 @@ export default function Home() {
           </Box>
           <Box
             height='80px'
-            fontSize='4xl'
+            fontSize='2xl'
             fontWeight='bold'
             textAlign='center'
           >
@@ -67,7 +67,7 @@ export default function Home() {
           </Box>
           <Box
             height='80px'
-            fontSize='4xl'
+            fontSize='2xl'
             fontWeight='bold'
             textAlign='center'
           >
@@ -75,7 +75,7 @@ export default function Home() {
           </Box>
           <Box
             height='80px'
-            fontSize='4xl'
+            fontSize='2xl'
             fontWeight='bold'
             textAlign='center'
           >
@@ -83,7 +83,7 @@ export default function Home() {
           </Box>
           <Box
             height='80px'
-            fontSize='4xl'
+            fontSize='2xl'
             fontWeight='bold'
             textAlign='center'
           >
@@ -91,7 +91,7 @@ export default function Home() {
           </Box>
           <Box
             height='80px'
-            fontSize='4xl'
+            fontSize='2xl'
             fontWeight='bold'
             textAlign='center'
           >
