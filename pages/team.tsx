@@ -22,7 +22,7 @@ export default function Home() {
         <br />
         <br />
         <Image
-          boxSize='660'
+          
           src='/cel.jpg'
           alt='logo'
           border='4px'
@@ -35,7 +35,7 @@ export default function Home() {
         <br />
         <br />
         <Image
-          boxSize='660'
+         
           src='/lazy.jpg'
           alt='logo'
           border='4px'
