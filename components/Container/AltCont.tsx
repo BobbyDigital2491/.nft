@@ -21,7 +21,7 @@ export default function Container(props: any) {
     title: 'Pandamania',
     description: 'Pandamania',
     image:
-      'https://web3-ashy-five.vercel.app/new.png',
+      'https://pbs.twimg.com/profile_images/1534753348422860801/hkrpk4MM_400x400.jpg',
     type: 'website',
     ...customMeta,
   }
