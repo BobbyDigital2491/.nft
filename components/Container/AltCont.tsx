@@ -21,7 +21,7 @@ export default function Container(props: any) {
     title: 'Pandamania',
     description: 'Pandamania',
     image:
-      'https://pbs.twimg.com/profile_images/1534753348422860801/hkrpk4MM_400x400.jpg',
+      'https://twitter.com/SyndicatesPanda/status/1547001082416594944/photo/1',
     type: 'website',
     ...customMeta,
   }
