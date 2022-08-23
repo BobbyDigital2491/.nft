@@ -42,7 +42,7 @@ export default function Home() {
           borderRadius='2xl'
         />
         <Text fontSize='4xl' fontWeight='bold'>
-          Lazy Day
+         
         </Text>
         <Center>{'Co-Founder / Artist & Creative Lead  '}</Center>
         <br />
