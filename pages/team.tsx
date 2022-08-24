@@ -1,7 +1,6 @@
-import { Text, Image, Center, Box, SimpleGrid } from '@chakra-ui/react'
-
-import BbText from 'components/BigText/BbText'
 import Container from 'components/Container'
+import { Text, Image, Center, Box, SimpleGrid } from '@chakra-ui/react'
+import BbText from 'components/BigText/BbText'
 
 export default function Home() {
   return (
@@ -15,14 +14,12 @@ export default function Home() {
           border='4px'
           borderRadius='2xl'
         />
-        <Text fontSize='4xl' fontWeight='bold'>
-          Ancient Panda
-        </Text>
+        <Text fontSize='4xl'>Ancient Panda</Text>
         <Center>{'Co-Founder / Business & Project Development '}</Center>
         <br />
         <br />
         <Image
-          objectFit='cover'
+          boxSize='660'
           src='/cel.jpg'
           alt='logo'
           border='4px'
@@ -35,60 +32,35 @@ export default function Home() {
         <br />
         <br />
         <Image
-          objectFit='cover'
+          boxSize='660'
           src='/lazy.jpg'
           alt='logo'
           border='4px'
           borderRadius='2xl'
         />
         <Text fontSize='4xl' fontWeight='bold'>
-         
+          Lazy Day
         </Text>
         <Center>{'Co-Founder / Artist & Creative Lead  '}</Center>
         <br />
         <br />
         <BbText slides={['Community ', ' ', 'Managment']} />
-        <SimpleGrid columns={2} spacing={10} border='4px' borderRadius='2xl'>
-          
-          <Box
-            height='80px'
-            fontSize='2xl'
-            fontWeight='bold'
-            textAlign='center'
-          >
+        <SimpleGrid columns={2} spacing={20} border='2px' borderRadius='2xl'>
+          <Box height='80px' fontSize='2xl' textAlign='center'></Box>
+          <Box height='80px' fontSize='2xl' textAlign='center'>
             Vj Lee
           </Box>
-          <Box
-            height='80px'
-            fontSize='2xl'
-            fontWeight='bold'
-            textAlign='center'
-          >
+          <Box height='80px' fontSize='2xl' textAlign='center'>
             Rhett
           </Box>
-          <Box
-            height='80px'
-            fontSize='2xl'
-            fontWeight='bold'
-            textAlign='center'
-          >
+          <Box height='80px' fontSize='2xl' textAlign='center'>
             Hashgraphia
           </Box>
-          <Box
-            height='80px'
-            fontSize='2xl'
-            fontWeight='bold'
-            textAlign='center'
-          >
+          <Box height='80px' fontSize='2xl' textAlign='center'>
             Cryptoblaggs
           </Box>
-          <Box
-            height='80px'
-            fontSize='2xl'
-            fontWeight='bold'
-            textAlign='center'
-          >
-            BobbyDigital
+          <Box height='80px' fontSize='2xl' textAlign='center'>
+            BobbyDigital24
           </Box>
         </SimpleGrid>
       </div>
