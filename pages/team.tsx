@@ -55,7 +55,7 @@ export default function Home() {
             fontWeight='bold'
             textAlign='center'
           >
-            IRep Legacy
+            Special Thanks
           </Box>
           <Box
             height='80px'
