@@ -49,14 +49,7 @@ export default function Home() {
         <br />
         <BbText slides={['Community ', ' ', 'Managment']} />
         <SimpleGrid columns={2} spacing={10} border='4px' borderRadius='2xl'>
-          <Box
-            height='80px'
-            fontSize='2xl'
-            fontWeight='bold'
-            textAlign='center'
-          >
-            
-          </Box>
+          
           <Box
             height='80px'
             fontSize='2xl'
